@@ -2,19 +2,19 @@
 
 Projeto desenvolvido em Python para simular a abertura e gerenciamento de chamados técnicos em ambiente console.
 
-## 📌 Funcionalidades
+##  Funcionalidades
 - Abertura de chamados
 - Listagem de chamados
 - Atualização de status
 - Validação de entradas do usuário
 
-## 🛠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - Python
 - Estruturas de dados (listas e dicionários)
 - Funções
 - Tratamento de erros (try/except)
 
-## 🎯 Objetivo
+##  Objetivo
 Projeto criado para praticar lógica de programação e organização de código.
 
 ## 👨‍💻 Autor
